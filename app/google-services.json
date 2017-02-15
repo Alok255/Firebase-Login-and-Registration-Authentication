@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461392533316",
+    "firebase_url": "https://firebas-login-88307.firebaseio.com",
+    "project_id": "firebas-login-88307",
+    "storage_bucket": "firebas-login-88307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461392533316:android:877265696e922e4f",
+        "android_client_info": {
+          "package_name": "com.firebase.alokraj.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461392533316-4vt7s1m6bvsl6cdae95tcfsejn1d8tkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmcuiCbzy9P-3e0zeUyWyKyhawYB8K0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

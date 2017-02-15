@@ -1,0 +1,45 @@
+<resources>
+
+
+    <string name="app_name">Firebase Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="email">Email</string>
+    <string name="minimum_pass">Password To Short</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="change_email">Change Email</string>
+    <string name="send_password_reset_email">Send Password</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member?Get Registered</string>
+    <string name="btn_link_to_login">Already registered.Login Me!</string>
+    <string name="title_acttivity_reset_password">ResetPassword Activity</string>
+    <string name="btn_forget_password">Forget Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forget_password">Forget Password</string>
+    <string name="forgot_password_msg">We just need your registered  to send link</string>
+    <string name="title_activity_signup">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
